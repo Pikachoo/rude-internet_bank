@@ -69,7 +69,7 @@ Rails.application.routes.draw do
   resources :user
   resources :session
   resource :accounts, :cards
-  namespace operator
-    resources :credtis
+  namespace :operator do
+    resources :credits
   end
 end
