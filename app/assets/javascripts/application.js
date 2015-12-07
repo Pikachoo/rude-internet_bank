@@ -12,7 +12,7 @@
 //
 
 
-//= require_tree ./rude
+//= require rude/rude.js
 //= require jquery/1.11.3/jquery-1.11.3.min.js
 //= require jquery-migrate/1.2.1/jquery-migrate-1.2.1.min
 //= require semantic-ui/2.1.6/semantic.min

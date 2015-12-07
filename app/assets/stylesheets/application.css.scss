@@ -15,3 +15,16 @@
  *= require semantic-ui-style/2.1.6/semantic.min
  *= require style.css.erb
  */
+@font-face {
+  font-family: 'Basic Icons';
+  src: url('./semantic-ui-style/2.1.6/themes/default/assets/fonts/icons.eot');
+  src: url('./semantic-ui-style/2.1.6/themes/default/assets/fonts/icons.otf');
+  src: url('./semantic-ui-style/2.1.6/themes/default/assets/fonts/icons.svg');
+  src: url('./semantic-ui-style/2.1.6/themes/default/assets/fonts/icons.ttf');
+  src: url('./semantic-ui-style/2.1.6/themes/default/assets/fonts/icons.woff');
+  src: url('./semantic-ui-style/2.1.6/themes/default/assets/fonts/icons.woff2');
+  src: url('./semantic-ui-style/2.1.6/themes/default/assets/fonts/icons.eot');
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+}
